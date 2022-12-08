@@ -8,4 +8,4 @@ Execute the line - `pip install PyPDF2` in the command prompt
 
 ## How to run the script
 
-It can be executed by running `python merge_pdfs.py`
+It can be executed by running `python merging_2_pdfs_into_1_pdf.py`
